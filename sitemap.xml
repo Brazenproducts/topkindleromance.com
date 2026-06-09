@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://topkindleromance.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://topkindleromance.com/kindleromance-market-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://topkindleromance.com/what-we-look-for-kindleromance-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://topkindleromance.com/kindleromance-guide-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://topkindleromance.com/how-to-pick-kindleromance-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://topkindleromance.com/kindleromance-tested-ranked-2026.html</loc><lastmod>2026-05-31</lastmod></url>
-  <url><loc>https://topkindleromance.com/kindleromance-practical-guide-2026.html</loc><lastmod>2026-06-03</lastmod></url>
-  <url><loc>https://topkindleromance.com/best-kindleromance-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://topkindleromance.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
